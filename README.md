@@ -6,5 +6,6 @@ This are the Labs & Assignments codes for CSE220: Programming Language I. There 
   <ul>
   <li>Flow Chart</li>
   <li>While Loop</li>
+  <li>For Loop</li>
   <li>Star Lab</li>
 </ul>
