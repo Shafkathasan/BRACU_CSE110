@@ -1,8 +1,8 @@
-BRAC University
+<center>BRAC University
 Department of Computer Science and Engineering
 CSE 110/162 (Programming Language I)
 
-Lab 1
+Lab 1</center>
 Note to Instructor: Do not discuss/use loops for any of these problems
 
 Task 1
