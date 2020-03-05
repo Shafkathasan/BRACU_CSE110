@@ -3,7 +3,7 @@ Department of Computer Science and Engineering <br>
 CSE 110/162 (Programming Language I)
 
 Lab 1</b> <br>
-<br> <r> Note to Instructor: Do not discuss/use loops for any of these problems </b> </r> <br>
+<b> <font color="red"> Note to Instructor: Do not discuss/use loops for any of these problems </b> </font> <br>
 
 Task 1
 
